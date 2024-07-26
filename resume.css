@@ -115,7 +115,7 @@ h1 div {
   flex: 1;
 }
 
-#google {
+.pageBreak {
   page-break-before: always;
 }
 
